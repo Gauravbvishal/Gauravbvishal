@@ -43,7 +43,7 @@
 - 🔄 Real-time task updates with smooth UI  
 - 🏗️ Built with **MVC architecture** (backend) and **component-based structure** (frontend) 
 
-<img src="../images/allTask.png" width="600"/>
+<img src="allTask.png" width="600"/>
 
 ---
 
