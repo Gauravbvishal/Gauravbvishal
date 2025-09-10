@@ -29,6 +29,24 @@
 
 ## 🚀 Featured Projects  
 
+### 🔹 TO-DO List App  
+⚡ **Tech:** React | Express.js / Spring Boot | MySQL  
+
+📌 **Features:**  
+- 🔐 User authentication (login & logout)  
+- ➕ Add, ✏️ Edit, ❌ Delete tasks  
+- ⏳ Deadline tracking for each task  
+- 🎯 Priority-based task management (High, Medium, Low)  
+- 🎨 Color-coded task cards for quick visualization  
+- 📊 Priority summary (count of High / Medium / Low tasks)  
+- 📂 Tasks displayed in separate columns by priority  
+- 🔄 Real-time task updates with smooth UI  
+- 🏗️ Built with **MVC architecture** (backend) and **component-based structure** (frontend) 
+
+<img src="../images/allTask.png" width="600"/>
+
+---
+
 ### 🔹 [Business Management System](#)
 ⚡ Tech: Spring Boot | React | MySQL  
 📌 Features: Role-based login, employee management, analytics dashboard  
@@ -43,16 +61,9 @@
 
 ---
 
-### 🔹 [TO-DO List App](#)
-⚡ Tech: React | Express.js | MySQL / Spring Boot  
-📌 Features: User login, task management, real-time updates  
-<img src="assets/project3.png" width="600"/>
-
----
-
 ## 🐍 Contribution Snake  
 
-![Snake animation](https://github.com/Gauravbvishal/Gauravbvishal/blob/output/snake.yml)
+![Snake animation](https://github.com/Gauravbvishal/Gauravbvishal/blob/workflows/snake.yml)
 
 ---
 
