@@ -52,7 +52,7 @@
 
 ## 🐍 Contribution Snake  
 
-![Snake animation](https://github.com/Gauravbvishal/Gauravbvishal/blob/output/snake.yml)
+![Snake animation](https://github.com/Gauravbvishal/Gauravbvishal/blob/workflows/snake.yml)
 
 ---
 
