@@ -12,7 +12,7 @@
 ---
 
 ## 👨‍💻 About Me
-🎯 Full-Stack Developer specializing in **Backend (Java, Spring Boot, Node.js)** and **Frontend (React, Next.js, JavaScript)**  
+🎯 Full-Stack Developer specializing in **Backend (Java, Node.js,Express.js)** and **Frontend (React, Next.js, JavaScript)**  
 ⚡ Experienced in **REST APIs, Databases, System Design, and Scalable Applications**  
 🌱 Constantly learning **Cloud, Microservices & Advanced DSA**  
 💼 Open for **Software Engineer | Backend | Full-Stack** opportunities  
@@ -30,7 +30,7 @@
 ## 🚀 Featured Projects  
 
 ### 🔹 TO-DO List App  
-⚡ **Tech:** React | Express.js / Spring Boot | MySQL  
+⚡ **Tech:** React | Express.js | MySQL  
 
 📌 **Features:**  
 - 🔐 User authentication (login & logout)  
