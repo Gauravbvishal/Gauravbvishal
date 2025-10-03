@@ -61,7 +61,7 @@
 - 🔄 **Real-time updates** – Smooth task updates with instant UI refresh  
 - 🏗️ **Scalable architecture** – Easy to maintain and extend
 
-  <img src="image(2).png" width="600"/>
+  <img src="image.png" width="600"/>
 
 ---
 
