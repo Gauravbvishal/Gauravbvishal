@@ -47,10 +47,21 @@
 
 ---
 
-### 🔹 [Business Management System](#)
-⚡ Tech: Spring Boot | React | MySQL  
-📌 Features: Role-based login, employee management, analytics dashboard  
-<img src="assets/project1.png" width="600"/>
+### 🔹 Task Manager 
+⚡ **Tech:** React | Node.js | Express.js | Mongoose 
+
+📌 **Features:**  
+- 🔐 **User Authentication** – Login & Logout functionality  
+- ➕ **Add**, ✏️ **Edit**, ❌ **Delete**, 🔎 **Search** tasks easily  
+- ⏳ **Deadline tracking** – Set due dates for each task  
+- 🎯 **Task management** – Organize and focus on what matters most  
+- 🎨 **Responsive UI** – Clean and modern design for all devices  
+- 📊 **Dashboard view** – Overview of tasks in one place  
+- 📂 **Organized structure** – MVC (backend) & component-based (frontend)  
+- 🔄 **Real-time updates** – Smooth task updates with instant UI refresh  
+- 🏗️ **Scalable architecture** – Easy to maintain and extend
+
+  <img src="image(2).png" width="600"/>
 
 ---
 
