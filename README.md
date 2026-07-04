@@ -27,7 +27,24 @@
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects 
+ 
+ ### 🔹 Job Posting Platform
+
+**Tech Stack:** React.js | Next.js | Express.js | Supabase | JWT Authentication
+
+**Key Features:**
+
+* 🔐 Secure user authentication with JWT (Login & Logout)
+* 📂 Browse jobs by category using admin-managed categories
+* 🆕 View recently added job listings
+* 🔔 Receive notifications for newly posted jobs
+* 👨‍💼 Admin dashboard to manage job categories and job postings
+* 📝 Complete CRUD operations for categories and jobs
+* 🏗️ Backend developed using the MVC architecture
+* ⚛️ Frontend built with a reusable, component-based architecture
+* 🔒 Protected admin routes with role-based access control
+* 📱 Responsive user interface optimized for desktop and mobile devices
 
 ### 🔹 TO-DO List App  
 ⚡ **Tech:** React | Express.js | MySQL  
